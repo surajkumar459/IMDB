@@ -1,0 +1,13 @@
+/* Footer */
+footer {
+  border-top: 2px solid var(--primary-border-card);
+  width: 100%;
+  color: #d3a9a9;
+  text-align: center;
+  flex: none;
+  position: sticky;
+  top: 100%;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  align-items: center;
+}
